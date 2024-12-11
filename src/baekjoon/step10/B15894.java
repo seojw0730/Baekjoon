@@ -1,6 +1,5 @@
 package baekjoon.step10;
 
-import java.util.*;
 import java.io.*;
 
 public class B15894 {

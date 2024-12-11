@@ -1,6 +1,5 @@
 package baekjoon.step07;
 
-import java.util.*;
 import java.io.*;
 
 public class B2563 {

@@ -1,6 +1,5 @@
 package baekjoon.step12;
 
-import java.util.*;
 import java.io.*;
 
 public class B2798 {
